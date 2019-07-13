@@ -1,8 +1,7 @@
-<p align="center"># **Crime Analysis Report**   :bird:</p>
-
-					      <p align="center"> by
+# **Crime Analysis Report**   :bird:
+					      <p align="center">by</p>
 					       
-			      <p align="center"> Ivy Chen, Mussie Engdashete, Ed Gomez
+			      <p align="center">**Ivy Chen, Jeff Stevens, Ed Gomez</p> 
 
 PROJECT DESCRIPTION:
 
