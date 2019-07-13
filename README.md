@@ -1,26 +1,30 @@
-# Project_1
+# **Crime Analysis Report** :bird:
 
-					Falconine Falcons
-				Crime Stats (Project 1)
-					
-Team Members: Ivy Chen, Mussie Engdashete, Ed Gomez, Jeff Stevens
+							by
+							
+					   Ivy Chen, Jeff Stevens, Ed Gomez
 
+PROJECT DESCRIPTION:
 
-July 8, 2019
-
-PROJECT DESCRIPTION
 Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of day and how it compares to same time on different days. 
-RESEARCH QUESTIONS TO ANSWER 
-1.	What is the burglary rate for each of the five major cities?
-2.	What time of day did the burglary occur in each of the five major cities?
-3.	Is there a trend for what time of day burglaries occur?
-4.	Does this trend change across the five major cities?
-DATASETS INCLUDED
-•	Crime blotter1
-•	Crime blotter2
-•	Crime blotter3
-•	Crime blotter4
-•	Crime blotter5
+
+RESEARCH QUESTIONS TO ANSWER:
+
++	What is the burglary rate for each of the five major cities?
++	What time of day did the burglary occur in each of the five major cities?
++	Is there a trend for what time of day burglaries occur?
++	Does this trend change across the five major cities?
+
+DATASETS INCLUDED:
+
+Kaggle
+
+
+Tasks | Milestones
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 TASKS / MILESTONES
 Day 1
 •	Decompose the ask (Consider the interpretations of the terms and how that influences collection and analysis, Is the scope manageable and reasonable for adding value to the question)
@@ -58,3 +62,6 @@ Prepare a formal, 10-minute presentation that covers
 	The analysis process (accompanied by your Jupyter Notebook)
 	Your conclusions, which should include a numerical summary and visualizations of that summary
 	The implications of your findings: what do your findings mean?
+
+
+
