@@ -1,6 +1,7 @@
-# **Crime Analysis Report** 
+# **Crime Analysis Report** :bird:
 
 					       by
+					       
 			      Ivy Chen, Mussie Engdashete, Ed Gomez
 
 PROJECT DESCRIPTION:
