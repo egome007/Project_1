@@ -1,7 +1,7 @@
 # **Crime Analysis Report**   :bird:
-					      <p align="center">by</p>
+					               by
 					       
-			      <p align="center">**Ivy Chen, Jeff Stevens, Ed Gomez</p> 
+			                **Ivy Chen, Jeff Stevens, Ed Gomez
 
 PROJECT DESCRIPTION:
 
@@ -13,12 +13,11 @@ RESEARCH QUESTIONS TO ANSWER:
 2.	What time of day did the burglary occur in each of the five major cities?
 3.	Is there a trend for what time of day burglaries occur?
 4.	Does this trend change across the five major cities?
+
 DATASETS INCLUDED
-•	Crime blotter1
-•	Crime blotter2
-•	Crime blotter3
-•	Crime blotter4
-•	Crime blotter5
+
+
+
 TASKS / MILESTONES
 Day 1
 •	Decompose the ask (Consider the interpretations of the terms and how that influences collection and analysis, Is the scope manageable and reasonable for adding value to the question)
