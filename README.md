@@ -1,9 +1,9 @@
 # Project_1
 
 					Falconine Falcons
-				Crime Stats (Project 1)
-					
-Team Members: Ivy Chen, Mussie Engdashete, Ed Gomez, Jeff Stevens
+				     	 Crime Analysis
+					       by
+			      Ivy Chen, Mussie Engdashete, Ed Gomez
 
 
 July 8, 2019
