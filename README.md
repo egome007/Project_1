@@ -1,7 +1,7 @@
 # **Crime Analysis Report**   :bird:
-					               by
+					               ## by
 					       
-			                **Ivy Chen, Jeff Stevens, Ed Gomez**
+			                ## Ivy Chen, Jeff Stevens, Ed Gomez
 
 PROJECT DESCRIPTION:
 
@@ -14,9 +14,15 @@ RESEARCH QUESTIONS TO ANSWER:
 3.	Is there a trend for what time of day burglaries occur?
 4.	Does this trend change across the five major cities?
 
-DATASETS INCLUDED
+DATASETS INCLUDED:
+
+Kaggle
 
 
+Tasks | Milestones
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 TASKS / MILESTONES
 Day 1
