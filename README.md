@@ -1,5 +1,4 @@
-# **Crime Analysis Report**
-![Falcon](http://www.clker.com/cliparts/5/a/7/2/14970543421632351528shadow%20falcon.med.png)
+# **Crime Analysis Report** :bird:
 
 							by
 							
