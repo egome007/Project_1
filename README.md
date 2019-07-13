@@ -1,16 +1,16 @@
-# Project_1
+# Crime Analysis Report
 
 					Falconine Falcons
 				     	 Crime Analysis
 					       by
 			      Ivy Chen, Mussie Engdashete, Ed Gomez
 
+PROJECT DESCRIPTION:
 
-July 8, 2019
-
-PROJECT DESCRIPTION
 Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of day and how it compares to same time on different days. 
-RESEARCH QUESTIONS TO ANSWER 
+
+RESEARCH QUESTIONS TO ANSWER:
+
 1.	What is the burglary rate for each of the five major cities?
 2.	What time of day did the burglary occur in each of the five major cities?
 3.	Is there a trend for what time of day burglaries occur?
