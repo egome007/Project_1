@@ -62,3 +62,6 @@ Prepare a formal, 10-minute presentation that covers
 	The analysis process (accompanied by your Jupyter Notebook)
 	Your conclusions, which should include a numerical summary and visualizations of that summary
 	The implications of your findings: what do your findings mean?
+
+
+![Image description](https://icon2.kisspng.com/20180418/zse/kisspng-bird-glasses-clip-art-birds-5ad6f61022f954.8326516215240371361433.jpg)
