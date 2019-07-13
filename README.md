@@ -10,10 +10,10 @@ Research of crime statistics for five major cities within Los Angeles County and
 
 RESEARCH QUESTIONS TO ANSWER:
 
-1.	What is the burglary rate for each of the five major cities?
-2.	What time of day did the burglary occur in each of the five major cities?
-3.	Is there a trend for what time of day burglaries occur?
-4.	Does this trend change across the five major cities?
++	What is the burglary rate for each of the five major cities?
++	What time of day did the burglary occur in each of the five major cities?
++	Is there a trend for what time of day burglaries occur?
++	Does this trend change across the five major cities?
 
 DATASETS INCLUDED:
 
