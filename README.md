@@ -1,7 +1,7 @@
 # **Crime Analysis Report**   :bird:
 
-							<h2>by</h2>
-					<h2>Ivy Chen, Jeff Stevens, Ed Gomez</h2>
+							<h2>by
+					   Ivy Chen, Jeff Stevens, Ed Gomez</h2>
 
 PROJECT DESCRIPTION:
 
