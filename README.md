@@ -1,7 +1,5 @@
-# **Crime Analysis Report** :EMOJICODE:
+# **Crime Analysis Report** 
 
-					Falconine Falcons
-				     	 Crime Analysis
 					       by
 			      Ivy Chen, Mussie Engdashete, Ed Gomez
 
