@@ -10,9 +10,9 @@ Research of crime statistics for five major cities within Los Angeles County and
 
 # HYPOTHESIS TO EVALUATE:
 
-+ Hypothesis: the number of instances of burglary increase during the summer months
-+ Hypothesis: most burglaries occur during daytime hours
-+ Hypothesis: most burglaries occur during weekdays
+**+ Hypothesis: the number of instances of burglary increase during the summer months**
+**+ Hypothesis: most burglaries occur during daytime hours**
+**+ Hypothesis: most burglaries occur during weekdays**
 
 # DATASETS INCLUDED: **data.lacity.org**
 
