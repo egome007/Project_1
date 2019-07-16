@@ -19,11 +19,12 @@ DATASETS INCLUDED:
 
 Kaggle
 
-
-DELIVERABLES | Technologies | Modules
------------- | ------------- |
-Git Hub | HTML, CSS, AWS |
+/***
+DELIVERABLES | Technologies   | Modules
+------------ | -------------  |
+Git Hub      | HTML, CSS, AWS |
 Site: [Our Data Science Website](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) | Prezi |
+***/
 
  
 TASKS / MILESTONES
