@@ -16,6 +16,12 @@ Research of crime statistics for five major cities within Los Angeles County and
 
 
 
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 DELIVERABLES | Technologies | API | LIBRARIES 
 ------------ | -------------  
 Git Hub      | HTML, CSS, AWS 
