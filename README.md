@@ -23,7 +23,7 @@ Kaggle
 DELIVERABLES | Technologies
 ------------ | -------------
 Git Hub | HTML, CSS, AWS
-Site | Prezi
+Site: [GitHub](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) | Prezi
 
  
 TASKS / MILESTONES
@@ -37,16 +37,12 @@ Day 2
 •	Assemble and validate the data 
 •	Analyze for trends 
 •	Acknowledge limitations
-DELIVERABLES
 
-1.	GitHub repository
-2.	Project documentation with code samples
-3.	Final presentation
  
 
 Development Requirements		
 		
-	Use Pandas to clean and format your dataset(s). 
+Use Pandas to clean and format your dataset(s). 
 	Create a Jupyter Notebook describing the data exploration and cleanup process.
 	Create a Jupyter Notebook illustrating the final data analysis. 
 	Use Matplotlib to create a total of 6–8 visualizations of your data (ideally, at least 2 per ”question” you ask of your data). 
