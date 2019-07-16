@@ -26,6 +26,13 @@ Git Hub      | HTML, CSS, AWS |
 Site: [Our Data Science Website](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) | Prezi |
 ***/
 
+/***
+| __Animals__ | __Sports__ | __Fruits__ |
+|-------------|------------|------------|
+| Cat         | Soccer     | Apple      |
+| Dog         | Basketball | Orange     |
+***/
+
  
 TASKS / MILESTONES
 Day 1
