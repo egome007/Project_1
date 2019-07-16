@@ -6,25 +6,26 @@
 
 PROJECT DESCRIPTION:
 
-Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of day and how it compares to same time on different days. 
+Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of year and how they compares to other months of the year. 
 
 RESEARCH QUESTIONS TO ANSWER:
 
-+	What is the burglary rate for each of the five major cities?
++	What are the burglary rates for each month within the jurisdiction of the Los Angeles Police Department?
 +	What time of day did the burglary occur in each of the five major cities?
-+	Is there a trend for what time of day burglaries occur?
-+	Does this trend change across the five major cities?
++	Is there a trend for what month of year most burglaries occur?
++	Does this trend change across the year?
 
 DATASETS INCLUDED:
 
 Kaggle
 
 
-Tasks | Milestones
+DELIVERABLES | Technologies
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Git Hub | HTML, CSS, AWS
+Site | Prezi
 
+ 
 TASKS / MILESTONES
 Day 1
 •	Decompose the ask (Consider the interpretations of the terms and how that influences collection and analysis, Is the scope manageable and reasonable for adding value to the question)
