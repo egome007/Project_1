@@ -21,7 +21,7 @@ Research of crime statistics for five major cities within Los Angeles County and
 | :---         |     :---:      |          ---: |	   ---: 
 |  Github      | HTML, CSS, AWS | data.lacity.org API |               |
 |              | Python, Github | git diff      |               |
-| [Our Data Science Website](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) |     |    |    |
+| [Our Data Science Website](http://mydatascienceproject.tk/) |     |    |    |
 
 
 # Development Requirements		
