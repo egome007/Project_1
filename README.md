@@ -23,7 +23,7 @@ Kaggle
 DELIVERABLES | Technologies
 ------------ | -------------
 Git Hub | HTML, CSS, AWS
-Site: [GitHub](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) | Prezi
+Site: [Our Data Science Website](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) | Prezi
 
  
 TASKS / MILESTONES
