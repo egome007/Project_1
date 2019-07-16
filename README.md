@@ -16,17 +16,13 @@ Research of crime statistics for five major cities within Los Angeles County and
 +	Does this trend change across the year?
 
 # DATASETS INCLUDED:
-## data.lacity.org
+data.lacity.org
+
 
 DELIVERABLES | Technologies   
 ------------ | -------------  
 Git Hub      | HTML, CSS, AWS 
 Site: [Our Data Science Website](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) | Prezi |
-
-
-
-
- 
 
 # Development Requirements		
 		
