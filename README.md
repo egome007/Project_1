@@ -19,8 +19,8 @@ Research of crime statistics for five major cities within Los Angeles County and
 
 | DELIVERABLES | TECHNOLOGIES   |       API     |   LIBRARIES   |
 | :---         |     :---:      |          ---: |	   ---: 
-|  Github      | HTML, CSS, AWS | git status    | git status    |
-| git diff     | Python, Github | git diff      | git diff      |
+|  Github      | HTML, CSS, AWS | data.lacity.org API |               |
+|              | Python, Github | git diff      |               |
 | [Our Data Science Website](https://s3.us-east-2.amazonaws.com/gomez.ed.bucket.project/index.htm) |     |    |    |
 
 
