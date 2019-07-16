@@ -15,8 +15,7 @@ Research of crime statistics for five major cities within Los Angeles County and
 +	Is there a trend for what month of year most burglaries occur?
 +	Does this trend change across the year?
 
-# DATASETS INCLUDED:
-**data.lacity.org**
+# DATASETS INCLUDED: **data.lacity.org**
 
 
 DELIVERABLES | Technologies   
