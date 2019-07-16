@@ -15,7 +15,7 @@ Research of crime statistics for five major cities within Los Angeles County and
 + **Hypothesis: most burglaries occur during weekdays**
 
 # DATASETS INCLUDED: 
-**data.lacity.org**
+### **data.lacity.org**
 
 
 DELIVERABLES | Technologies   
