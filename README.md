@@ -8,12 +8,11 @@
 
 Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of year and how they compares to other months of the year. 
 
-# RESEARCH QUESTIONS TO ANSWER:
+# HYPOTHESIS TO EVALUATE:
 
-+	What are the burglary rates for each month within the jurisdiction of the Los Angeles Police Department?
-+	What time of day did the burglary occur in each of the five major cities?
-+	Is there a trend for what month of year most burglaries occur?
-+	Does this trend change across the year?
++ Hypothesis: the number of instances of burglary increase during the summer months
++ Hypothesis: most burglaries occur during daytime hours
++ Hypothesis: most burglaries occur during weekdays
 
 # DATASETS INCLUDED: **data.lacity.org**
 
