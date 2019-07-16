@@ -6,7 +6,7 @@
 
 # PROJECT DESCRIPTION:
 
-Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of year and how they compares to other months of the year. 
+Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of year and how they compare to other months of the year. 
 
 # HYPOTHESIS TO EVALUATE:
 
