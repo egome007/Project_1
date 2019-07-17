@@ -6,7 +6,7 @@
 
 # PROJECT DESCRIPTION:
 
-Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of year and how they compare to other months of the year. 
+Research of crime statistics for the City of Los Angeles and analyze the correlation of residential burglaries which occur at a specific days and months of year and how they compare to other days and months of the year. 
 
 # HYPOTHESIS TO EVALUATE:
 
@@ -15,13 +15,15 @@ Research of crime statistics for five major cities within Los Angeles County and
 + **Hypothesis: most burglaries occur during weekdays**
 
 
+# Technology Overview
 
-
-| DELIVERABLES | TECHNOLOGIES   |       API     |   LIBRARIES   |
-| :---         |     :---:      |          ---: |	   ---: 
-|  Github      | HTML, CSS, AWS | data.lacity.org API |               |
-|              | Python, Github | git diff      |               |
-| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) |     |    |    |
+| TECHNOLOGY   		| DESCRIPTION    		|
+| :---         		|     :---:      		|
+|  Github      		| HTML, CSS, AWS 		|
+|  API's       		| data.lacity.org 		|
+|  Libraries   		| Python, Pandas, Matplotlib 	|
+|  Unique functions   	| Sodapy			|
+|  Website		| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) |
 
 
 # Development Requirements		
