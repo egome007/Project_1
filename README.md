@@ -23,7 +23,8 @@ Research of crime statistics for the City of Los Angeles and analyze the correla
 |  API's       		| data.lacity.org 		|
 |  Python Libraries   	| Python, Pandas, Matplotlib    |
 |                       | Seaborn, scipy.stats, numpy   |
-|  Unique functions   	| Sodapy			|
+|  Supporting functions	| Sodapy, datecal, datetime	|
+|			| calendar			|
 |  Website		| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) |
 
 
