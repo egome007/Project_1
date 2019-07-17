@@ -17,7 +17,7 @@ Research of crime statistics for the City of Los Angeles and analyze the correla
 
 # Technology Overview
 
-| TECHNOLOGY   		| DESCRIPTION    		|
+| Technology   		| Description    		|
 | :---         		|     :---:      		|
 |  Github      		| HTML, CSS, AWS 		|
 |  API's       		| data.lacity.org 		|
