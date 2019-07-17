@@ -17,15 +17,13 @@ Research of crime statistics for the City of Los Angeles and analyze the correla
 
 # Technology Overview
 
-| Technology   		| Description    		|
-| :---         		|     :---:      		|
-|  Github      		| HTML, CSS, AWS 		|
-|  API's       		| data.lacity.org 		|
-|  Python Libraries   	| Python, Pandas, Matplotlib    |
-|                       | Seaborn, scipy.stats, numpy   |
-|  Supporting functions	| Sodapy, datecal, datetime	|
-|			| calendar			|
-|  Website		| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) |
+| Technology   		| Description    							|
+| :---         		|     :---:      							|
+|  Github      		| HTML, CSS, AWS 							|
+|  API's       		| data.lacity.org 							|
+|  Python Libraries   	| Python, Pandas, Matplotlib, Seaborn, scipy.stats, numpy    		|
+|  Supporting functions	| Sodapy, datecal, datetime, calendar					|
+|  Website		| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) 	|
 
 
 # Development Requirements		
