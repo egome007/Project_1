@@ -36,9 +36,9 @@ Research of crime statistics for the City of Los Angeles and analyze the correla
 +	(Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions. 
 +	Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots.
 		
-Presentation Requirements		
-Prepare a formal, 10-minute presentation that covers	
+# Presentation Requirements 	
 		
++	10-minute project overview
 +	Questions you found interesting and what motivated you to answer them
 +	Where and how you found the data you used to answer these questions
 +	The data exploration and cleanup process (accompanied by your Jupyter Notebook)
