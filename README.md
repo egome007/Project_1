@@ -1,4 +1,4 @@
-# **Crime Analysis Report** ![Falcon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad9yJ--6upi437hZWMVVJNUnZgBbSTXOjlAL1JeeDL8sCilNG)
+# **CRIME ANALYSIS  REPORT** ![Falcon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTad9yJ--6upi437hZWMVVJNUnZgBbSTXOjlAL1JeeDL8sCilNG)
 
 							by
 							
@@ -6,7 +6,7 @@
 
 # PROJECT DESCRIPTION:
 
-Research of crime statistics for five major cities within Los Angeles County and analyze the correlation of residential burglaries which occur at a specific time of year and how they compare to other months of the year. 
+Research of crime statistics for the City of Los Angeles and analyze the correlation of residential burglaries which occur at a specific days and months of year and how they compare to other days and months of the year. 
 
 # HYPOTHESIS TO EVALUATE:
 
@@ -15,13 +15,15 @@ Research of crime statistics for five major cities within Los Angeles County and
 + **Hypothesis: most burglaries occur during weekdays**
 
 
+# Technology Overview
 
-
-| DELIVERABLES | TECHNOLOGIES   |       API     |   LIBRARIES   |
-| :---         |     :---:      |          ---: |	   ---: 
-|  Github      | HTML, CSS, AWS | data.lacity.org API |               |
-|              | Python, Github | git diff      |               |
-| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) |     |    |    |
+| Technology   		| Description    							|
+| :---         		|     :---:      							|
+|  Github      		| HTML, CSS, AWS 							|
+|  API's       		| data.lacity.org 							|
+|  Python Libraries   	| Python, Pandas, Matplotlib, Seaborn, scipy.stats, numpy    		|
+|  Supporting functions	| Sodapy, datecal, datetime, calendar					|
+|  Website		| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) 	|
 
 
 # Development Requirements		
@@ -34,9 +36,9 @@ Research of crime statistics for five major cities within Los Angeles County and
 +	(Optional) Use at least one API, if you can find an API with data pertinent to your primary research questions. 
 +	Create a write-up summarizing your major findings. This should include a heading for each “question” you asked of your data and a short description of your findings and any relevant plots.
 		
-Presentation Requirements		
-Prepare a formal, 10-minute presentation that covers	
+# Presentation Requirements 	
 		
++	10-minute project overview
 +	Questions you found interesting and what motivated you to answer them
 +	Where and how you found the data you used to answer these questions
 +	The data exploration and cleanup process (accompanied by your Jupyter Notebook)
