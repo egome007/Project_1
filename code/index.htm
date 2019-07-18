@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Crime</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: "Lato", sans-serif}
+.mySlides {display: none}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card">
+    <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Home</a>
+    <a href="#band" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Projects</a>
+    <a href="#tour" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Sample Data</a>
+    <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Team</a>
+    <div class="w3-dropdown-hover w3-hide-small">
+      <button class="w3-padding-large w3-button" title="More">MORE <i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="#" class="w3-bar-item w3-button">Portfolio A</a>
+        <a href="#" class="w3-bar-item w3-button">Portfolio B</a>
+        <a href="#" class="w3-bar-item w3-button">Portfolio C</a>
+      </div>
+    </div>
+    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
+  </div>
+</div>
+
+<!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+  <a href="#band" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">BAND</a>
+  <a href="#tour" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">TOUR</a>
+  <a href="#contact" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">CONTACT</a>
+  <a href="#" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">MERCH</a>
+</div>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:2000px;margin-top:46px">
+
+  <!-- Automatic Slideshow Images -->
+  <div class="mySlides w3-display-container w3-center">
+    <img src="/w3images/la.jpg" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>Los Angeles</h3>
+      <p><b>We had the best time playing at Venice Beach!</b></p>   
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="/w3images/ny.jpg" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>New York</h3>
+      <p><b>The atmosphere in New York is lorem ipsum.</b></p>    
+    </div>
+  </div>
+  <div class="mySlides w3-display-container w3-center">
+    <img src="/w3images/chicago.jpg" style="width:100%">
+    <div class="w3-display-bottommiddle w3-container w3-text-white w3-padding-32 w3-hide-small">
+      <h3>Chicago</h3>
+      <p><b>Thank you, Chicago - A night we won't forget.</b></p>    
+    </div>
+  </div>
+
+  <!-- The Band Section -->
+  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
+    <h1 class="w3-wide">Falconine Falcons</h1>
+    <h2><p class="w3-opacity"><i>We love Data Science</i></p></h2>
+    <!-- <h3><p class="w3-justify">We have created the coolest project</p></h3> -->
+    <div class="w3-row w3-padding-32">
+      <div class="w3-third">
+        <p>Ed Gomez</p>
+        <img src="https://www.thoughtco.com/thmb/8AEHMlt48oQx85LR2EZsSC-067A=/478x279/filters:no_upscale():max_bytes(150000):strip_icc()/anastasia_albert-58badaad3df78c353c541ba9.jpg" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
+      </div>
+      <div class="w3-third">
+        <p>Jeff Stevens</p>
+        <img src="data:image/jpeg;base64,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" class="w3-round w3-margin-bottom" alt="Random Name" style="width:60%">
+      </div>
+      <div class="w3-third">
+        <p>Ivy Chen</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fGRTswLWkPUa-rb2nhhHdFl2plhsKm-_2qPBiIVBHVBpyw9L" class="w3-round" alt="Random Name" style="width:60%">
+      </div>
+      <!-- <div class="w3-third">
+        <p>Mussie Engdashete</p>
+        <img src="/w3images/bandmember.jpg" class="w3-round" alt="Random Name" style="width:60%">
+      </div> -->
+    </div>
+  </div>
+
+  <!-- The Tour Section -->
+  <div class="w3-black" id="tour">
+    <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+      <h2 class="w3-wide w3-center">Crime Data</h2>
+      <p class="w3-opacity w3-center"><i>https://github.com/egome007/Project_1</i></p><br>
+      <!-- <p class="w3-opacity w3-center"><i>https://github.com/stevensjeffw/Project_1</i></p><br>
+      <p class="w3-opacity w3-center"><i>https://github.com/ivychen258/Project_1</i></p><br> -->
+      <img src="plot_1.png" alt="Bar Chart" style="width:600px;height:600px;">
+
+      
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Ticket Modal -->
+  <div id="ticketModal" class="w3-modal">
+    <div class="w3-modal-content w3-animate-top w3-card-4">
+      <header class="w3-container w3-teal w3-center w3-padding-32"> 
+        <span onclick="document.getElementById('ticketModal').style.display='none'" 
+       class="w3-button w3-teal w3-xlarge w3-display-topright">�</span>
+        <h2 class="w3-wide"><i class="fa fa-suitcase w3-margin-right"></i>Tickets</h2>
+      </header>
+      <div class="w3-container">
+        <p><label><i class="fa fa-shopping-cart"></i> Tickets, $15 per person</label></p>
+        <input class="w3-input w3-border" type="text" placeholder="How many?">
+        <p><label><i class="fa fa-user"></i> Send To</label></p>
+        <input class="w3-input w3-border" type="text" placeholder="Enter email">
+        <button class="w3-button w3-block w3-teal w3-padding-16 w3-section w3-right">PAY <i class="fa fa-check"></i></button>
+        <button class="w3-button w3-red w3-section" onclick="document.getElementById('ticketModal').style.display='none'">Close <i class="fa fa-remove"></i></button>
+        <p class="w3-right">Need <a href="#" class="w3-text-blue">help?</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- The Contact Section -->
+  <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="contact">
+    <h2 class="w3-wide w3-center">CONTACT</h2>
+    <p class="w3-opacity w3-center"><i>Tell us what you think</i></p>
+    <div class="w3-row w3-padding-32">
+      <div class="w3-col m6 w3-large w3-margin-bottom">
+        <i class="fa fa-map-marker" style="width:30px"></i> Los Angeles, US<br>
+        <!-- <i class="fa fa-phone" style="width:30px"></i> Github: https://github.com/egome007/Project_1<br> -->
+        <i class="fa fa-envelope" style="width:30px"> </i> Email: egome007@gmail.com<br>
+        <i class="fa fa-envelope" style="width:30px"> </i> Email: ivychen258@gmail.com<br>
+        <i class="fa fa-envelope" style="width:30px"> </i> Email: stevensjeffw@gmail.com<br>
+      </div>
+      <div class="w3-col m6">
+        <form action="/action_page.php" target="_blank">
+          <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
+            <div class="w3-half">
+              <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+            </div>
+            <div class="w3-half">
+              <input class="w3-input w3-border" type="text" placeholder="Email" required name="Email">
+            </div>
+          </div>
+          <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
+          <button class="w3-button w3-black w3-section w3-right" type="submit">SEND</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+<!-- End Page Content -->
+</div>
+
+<!-- Image of location/map -->
+<img src="/w3images/map.jpg" class="w3-image w3-greyscale-min" style="width:100%">
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-opacity w3-light-grey w3-xlarge">
+  <i class="fa fa-facebook-official w3-hover-opacity"></i>
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+  
+</footer>
+
+<script>
+// Automatic Slideshow - change image every 4 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 4000);    
+}
+
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+// When the user clicks anywhere outside of the modal, close it
+var modal = document.getElementById('ticketModal');
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
