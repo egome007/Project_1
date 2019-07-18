@@ -22,7 +22,7 @@ Research of crime statistics for the City of Los Angeles and analyze the correla
 |  Github      		| HTML, CSS, AWS 							|
 |  API's       		| data.lacity.org 							|
 |  Python Libraries   	| Python, Pandas, Matplotlib, Seaborn, scipy.stats, numpy    		|
-|  Supporting functions	| Sodapy, datecal, datetime, calendar					|
+|  Supporting functions	| Sodapy (library), datecal, datetime, calendar, Rise (library)		|
 |  Website		| [http://mydatascienceproject.tk/](http://mydatascienceproject.tk/) 	|
 
 
